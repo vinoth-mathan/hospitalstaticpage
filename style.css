@@ -1,0 +1,127 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    text-decoration: none;
+
+}
+
+
+nav a{
+    width: 150px;
+    font-weight: 800;
+ }
+ nav a:hover{
+    color: rgb(8, 181, 137) !important;
+ }
+ nav a img{
+   width: 70px;
+   margin-left: 20px;
+ }
+
+ /* hearder two */
+
+ .body{
+    width: 100%;
+    background-color: rgb(8, 181, 137);
+    padding: 17px;
+    color: white !important;
+    /* position: fixed !important; */
+    margin-top:85px;
+    
+}
+#heal{
+border: 1px solid white;
+padding: 8px;
+margin: 2px;
+letter-spacing: 1px;
+color: white !important;
+
+
+}
+
+#ic1{
+font-size: 1.5rem !important;
+}
+.alin{
+    padding: 2px;
+    /* margin-left: 700px !important; */
+}
+/* #header-two{
+    display:flex; 
+    /* flex-direction: column; */
+    /* justify-content: center; */
+/* } */ 
+
+
+/* home content */
+body{
+    background-color: rgb(225, 248, 248);
+}
+.bg{
+    background-color: rgb(215, 235, 243);
+}
+.imgborder{
+    border-radius: 3px;
+}
+
+.imgborder:hover{
+    border:1px solid orange;
+}
+.btn{
+    margin-top: 5px;
+}
+/* about */
+.box{
+      /* border: 1px solid black !important; */
+     box-shadow: 5px 5px 5px rgb(208, 205, 205),5px 5px 5px rgb(208, 205, 205) !important;
+     border-top:5px solid rgb(208, 205, 205);
+     border-left:5px solid rgb(208, 205, 205);
+     
+
+}
+.but:hover{
+    background-color: rgb(238, 130, 130) !important;
+    transition: .5s ease !important;
+}
+.buti:hover{
+    color: rgb(238, 130, 130) !important;
+    transition: .5s ease !important;
+}
+.content{
+    background-color:rgb(8, 181, 137) ;
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+}
+.contact-form input{
+    background-color: transparent !important;
+    border-bottom: 2px solid #898585;
+    /* outline: none !important; */
+    color: #fff !important;
+    font-size: 1.5rem;
+    font-weight:light;
+    /* border: none; */
+ }
+ ::placeholder{
+     color:rgb(169, 209, 199) !important;
+ }
+ 
+ input:active{
+     background: transparent;
+ }
+ .error{
+     color: red;
+     font-size: 1rem;
+     text-align: end;
+ }
+ .contact-form textarea{
+     height:180px ;
+     background-color: transparent !important;
+     border-bottom: 2px solid #898585;
+    outline: none;
+    color: #fff !important;
+    font-size: 2rem;
+    font-weight:light;
+    /* border: none; */
+  }
