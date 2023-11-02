@@ -98,7 +98,7 @@ body{
     background-color: transparent !important;
     border-bottom: 2px solid #898585;
     /* outline: none !important; */
-    color: #fff !important;
+    /* color: #363434 !important; */
     font-size: 1.5rem;
     font-weight:light;
     /* border: none; */
@@ -120,7 +120,7 @@ body{
      background-color: transparent !important;
      border-bottom: 2px solid #898585;
     outline: none;
-    color: #fff !important;
+    /* color: #464141 !important; */
     font-size: 2rem;
     font-weight:light;
     /* border: none; */
